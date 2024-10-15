@@ -1,0 +1,2 @@
+"id","customer_id","surname","credit_score","geography","gender","age","tenure","balance","num_of_products","has_cr_card","is_active_member","estimated_salary","exited","churn_probability","retention_strategy"
+1,"VTS2025225","Ankit Krishna",645,"Hyderabad","Male",44,8,"113755.78",2,0,1,"149756.71",0,"0.14",NULL
