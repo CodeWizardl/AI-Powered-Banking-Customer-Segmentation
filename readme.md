@@ -29,7 +29,7 @@ This Streamlit application provides an AI-driven customer segmentation and analy
 ## Project Structure
 
 ```
-banking-customer-segmentation-app/
+AI-Powered-Banking-Customer-Segmentation/
 │
 ├── Records/
 │   └── (CSV files of data stored in the database)
@@ -60,12 +60,12 @@ banking-customer-segmentation-app/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/banking-customer-segmentation-app.git
+git clone https://github.com/CodeWizardl/AI-Powered-Banking-Customer-Segmentation.git
 ```
 
 ### Step 2: Navigate to the project directory
 ```bash
-cd banking-customer-segmentation-app
+cd AI-Powered-Banking-Customer-Segmentation
 ```
 
 ### Step 3: Create and activate a virtual environment (optional)
@@ -133,14 +133,14 @@ The app relies on the following libraries:
 
 ### Churn Prediction
 - **Algorithms evaluated**:
-  1. Random Forest
-  2. Gradient Boosting
-  3. SVM (Support Vector Machine)
-  4. KNN (K-Nearest Neighbors)
-  5. Logistic Regression
-  6. Decision Tree
+  - Random Forest
+  - Gradient Boosting
+  - SVM (Support Vector Machine)
+  - KNN (K-Nearest Neighbors)
+  - Logistic Regression
+  - Decision Tree
 - **Chosen Model**: Random Forest, due to its superior performance in predicting churn accurately.
-- **Storage**: Pre-trained models are serialized using `joblib` and stored in the `Webapp/Models/` directory.
+- **Storage**: Pre-trained models are serialized using `pickle` and stored in the `Webapp/Models/` directory.
 
 ## Database
 
