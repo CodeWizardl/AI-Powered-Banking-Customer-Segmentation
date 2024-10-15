@@ -3,6 +3,8 @@
 
 This Streamlit application provides an AI-driven customer segmentation and analysis tool for banking institutions. It offers real-time insights into customer behavior, personalized recommendations, and predictive analytics for customer retention.
 
+![Home](https://github.com/user-attachments/assets/0e51fa56-17a3-46d9-8166-77db23356655)
+
 ## Features
 
 1. **Customer Profile Overview**:  
